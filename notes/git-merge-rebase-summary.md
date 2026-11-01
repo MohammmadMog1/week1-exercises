@@ -16,5 +16,6 @@ git merge merge-branch
 
 for rebase:
 git checkout rebase-branch
+git rebase main
 git checkout main
 ```
